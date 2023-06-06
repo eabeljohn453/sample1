@@ -1,0 +1,41 @@
+.lub{
+    margin-left: 600px;
+    margin-top:100px;
+  }
+  .form{
+      padding-left:200px;
+  }
+  .fname{
+      padding-left:200px;
+  }
+  .num{
+      padding-left:200px;
+  }
+  .ema{
+      padding-left:200px;
+  }
+  .but{
+      display: block;
+      
+  }
+  .sub{
+    background-image:url("https://i.pinimg.com/236x/5c/f2/66/5cf2660af5f4214def7166dc7a7c8062--background-images-for-websites-background-for-website.jpg" );
+    height: 250px;
+     
+    
+    
+    }
+    .ssub{
+       color:white;
+       padding-left: 600px;
+       padding-top: 100px;
+    }
+    .sssub{
+        background-image:url("https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==");
+        height: 250px;
+    }
+    .ssssub{
+        color:rgb(51, 165, 185);
+        padding-left: 600px;
+        padding-top: 100px;
+     }
